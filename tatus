@@ -1,0 +1,13 @@
+[33mcommit 1867093f64172da1aa0883da2d2ed7d01148ece4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: GreyPebble <chandankumarnayak45@gmail.com>
+Date:   Thu Jan 18 21:38:15 2024 +0530
+
+    forge install: forge-std
+    
+    v1.7.6
+
+[33mcommit a0666b12e87cc2732c6a5e697f824bce7f7098fe[m
+Author: GreyPebble <chandankumarnayak45@gmail.com>
+Date:   Thu Jan 18 21:37:41 2024 +0530
+
+    chore: forge init
